@@ -13,6 +13,6 @@ Features:
 
 • Regular updates and OTA;
 
-All themed icons list available [here](https://github.com/immat0x1/PPL/blob/main/ThemedIconsList.md)
+All themed icons list available [here](https://github.com/TheCatRiX/PPL/blob/main/ThemedIconsList.md)
 
 Request new themed icons [here](https://t.me/ppl_request_bot)
