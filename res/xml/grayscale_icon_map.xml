@@ -871,6 +871,12 @@
     <icon
         drawable="@drawable/themed_icon_mir"
         package="ru.nspk.mir.loyalty" />
+    <icon
+        drawable="@drawable/themed_icon_book"
+        package="ru.dnevnik.app" />
+    <icon
+        drawable="@drawable/themed_icon_wallet"
+        package="com.monefy.app.pro" />
 <!--Additional themed gcam mods icons below-->
     <icon
         drawable="@drawable/themed_icon_camera"
@@ -950,6 +956,9 @@
     <icon
         drawable="@drawable/themed_icon_camera"
         package="com.android.hasli.lmc82" />
+    <icon
+        drawable="@drawable/themed_icon_camera"
+        package="com.GoogleCamera.Burial31" />
 <!--Google themed icons below-->
     <icon
         drawable="@drawable/themed_icon_android_auto"
