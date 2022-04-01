@@ -252,3 +252,9 @@ v2.6:
 • LINE
 • Telegram Monet
 •
+
+v2.6.1:
+• Dnevnik.ru
+• Monefy Pro
+• Burial 31 (GCam mod)
+•
