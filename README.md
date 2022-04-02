@@ -1,4 +1,6 @@
 # PPL
+**[PPL for Android 12.1 (12L)](https://github.com/TheCatRiX/PPL-Android12.1)**
+
 Modification for Pixel Launcher with new themed icons & some useful features;
 
 Features:
